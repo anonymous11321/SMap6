@@ -1,4 +1,3 @@
-# ÐÂÔö config.py ÎÄ¼þ
 class Config:
     BUDGET = 50000000
     INPUT_FILE = "Data/seed_addresses.txt"
